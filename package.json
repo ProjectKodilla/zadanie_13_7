@@ -20,6 +20,7 @@
   "homepage": "https://github.com/MarcinBB/zadanie_13_7#readme",
   "dependencies": {
     "colors": "^1.2.1",
+    "stat-mode": "^0.2.2",
     "update": "^0.7.4"
   }
 }
